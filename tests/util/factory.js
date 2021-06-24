@@ -5,7 +5,7 @@ import {
   AccountProfileAddress,
   Email,
   Group
-} from "@reactioncommerce/api-plugin-accounts/src/simpleSchemas.js";
+} from "@tedraykov/api-plugin-accounts/src/simpleSchemas";
 
 import {
   AddressValidationRule
