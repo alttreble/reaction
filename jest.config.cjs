@@ -5,7 +5,6 @@
 // Any packages that are published only as ESM need to be listed here
 const externalNodeModules = [
   "@reactioncommerce/api-core",
-  "@reactioncommerce/api-plugin-accounts",
   "@reactioncommerce/api-plugin-address-validation-test",
   "@reactioncommerce/api-plugin-address-validation",
   "@reactioncommerce/api-plugin-authentication",
@@ -42,7 +41,8 @@ const externalNodeModules = [
   "@reactioncommerce/api-plugin-taxes",
   "@reactioncommerce/api-plugin-translations",
   "@reactioncommerce/api-utils",
-  "@reactioncommerce/db-version-check"
+  "@reactioncommerce/db-version-check",
+  "@tedraykov/api-plugin-accounts",
 ];
 
 const jestConfig = {
