@@ -104,7 +104,8 @@
     "@reactioncommerce/random": "^1.0.2",
     "@tedraykov/api-plugin-accounts": "^2.1.1",
     "graphql": "~14.6.0",
-    "semver": "~6.3.0"
+    "semver": "~6.3.0",
+    "sharp": "^0.28.3"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
