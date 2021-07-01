@@ -71,7 +71,6 @@
     "@reactioncommerce/api-plugin-email": "^1.1.0",
     "@reactioncommerce/api-plugin-email-smtp": "^1.0.3",
     "@reactioncommerce/api-plugin-email-templates": "^1.1.1",
-    "@reactioncommerce/api-plugin-files": "^1.0.13",
     "@reactioncommerce/api-plugin-i18n": "^1.0.3",
     "@reactioncommerce/api-plugin-inventory": "^1.0.3",
     "@reactioncommerce/api-plugin-inventory-simple": "^1.0.4",
@@ -103,6 +102,7 @@
     "@reactioncommerce/random": "^1.0.2",
     "@tedraykov/api-plugin-accounts": "^2.1.1",
     "@tedraykov/api-plugin-authentication": "^2.0.2",
+    "@tedraykov/api-plugin-files": "^1.0.14",
     "graphql": "~14.6.0",
     "semver": "~6.3.0",
     "sharp": "^0.28.3"
