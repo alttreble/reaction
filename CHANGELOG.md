@@ -1,3 +1,58 @@
+## [4.0.1](https://github.com/reactioncommerce/reaction/compare/v4.0.0...v4.0.1) (2021-09-17)
+
+
+### Bug Fixes
+
+* upgrade @reactioncommerce/api-plugin-orders from 1.4.0 to 1.4.2 ([b3a8fca](https://github.com/reactioncommerce/reaction/commit/b3a8fcab89f581a3fb7e71d74c425f72349931b3))
+
+# [4.0.0](https://github.com/reactioncommerce/reaction/compare/v3.13.4...v4.0.0) (2021-08-25)
+
+
+### Bug Fixes
+
+* config file has new version ([d0b4bec](https://github.com/reactioncommerce/reaction/commit/d0b4becd6d74e031bd4172a699b686c8d15e12b1))
+* updating plugin versions ([a51e782](https://github.com/reactioncommerce/reaction/commit/a51e782a055a632857890ee67eaa733f06a4303b))
+
+
+### Features
+
+* using account-js for auth ([5163324](https://github.com/reactioncommerce/reaction/commit/51633240ead9206aa955845ca7093271dc7c2aee))
+
+
+### BREAKING CHANGES
+
+* hydra and idenity are no longer shipped by default
+
+Signed-off-by: Akarshit Wal <akarshitwal@gmail.com>
+
+## [3.13.4](https://github.com/reactioncommerce/reaction/compare/v3.13.3...v3.13.4) (2021-08-23)
+
+
+### Bug Fixes
+
+* upgrade @reactioncommerce/api-plugin-i18n from 1.0.3 to 1.0.4 ([3d5a0e0](https://github.com/reactioncommerce/reaction/commit/3d5a0e09c9d7c4ae36199196f63040b06f19aa0c))
+
+## [3.13.3](https://github.com/reactioncommerce/reaction/compare/v3.13.2...v3.13.3) (2021-08-19)
+
+
+### Bug Fixes
+
+* upgrade graphql from 14.6.0 to 14.7.0 ([a9732d9](https://github.com/reactioncommerce/reaction/commit/a9732d91c42bca3db6d72c8c020e57d7ed0fa7f8))
+
+## [3.13.2](https://github.com/reactioncommerce/reaction/compare/v3.13.1...v3.13.2) (2021-08-04)
+
+
+### Bug Fixes
+
+* update api-plugin-files plugin ([fc90dff](https://github.com/reactioncommerce/reaction/commit/fc90dff09713e790e8a92af3aa4bfe471860b76d))
+
+## [3.13.1](https://github.com/reactioncommerce/reaction/compare/v3.13.0...v3.13.1) (2021-06-24)
+
+
+### Bug Fixes
+
+* sharp is a direct dependency to resolve version issues ([717e6b5](https://github.com/reactioncommerce/reaction/commit/717e6b574aeb784757c3dea11eb020861197cf27))
+
 # [3.13.0](https://github.com/reactioncommerce/reaction/compare/v3.12.2...v3.13.0) (2021-06-23)
 
 
