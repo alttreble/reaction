@@ -24,7 +24,7 @@ const externalNodeModules = [
   "@reactioncommerce/api-plugin-notifications",
   "@reactioncommerce/api-plugin-orders",
   "@reactioncommerce/api-plugin-payments-example",
-  "@reactioncommerce/api-plugin-payments-stripe",
+  "@reactioncommerce/api-plugin-payments-stripe-sca",
   "@reactioncommerce/api-plugin-payments",
   "@reactioncommerce/api-plugin-pricing-simple",
   "@reactioncommerce/api-plugin-products",
@@ -42,7 +42,6 @@ const externalNodeModules = [
   "@reactioncommerce/api-plugin-translations",
   "@reactioncommerce/api-utils",
   "@reactioncommerce/db-version-check",
-  "@tedraykov/api-plugin-accounts",
 ];
 
 const jestConfig = {
