@@ -1,3 +1,19 @@
+# [4.2.0](https://github.com/alttreble/reaction/compare/v4.1.7...v4.2.0) (2022-05-25)
+
+
+### Bug Fixes
+
+* discounts ([b9bb051](https://github.com/alttreble/reaction/commit/b9bb051f349f2734d0635226ec5f5522a0744794))
+* remove Stripe payment plugin ([a25a932](https://github.com/alttreble/reaction/commit/a25a9328bf17e24d5b6f6b987daf8ef8d836ea24))
+* update package metadata ([3fdb372](https://github.com/alttreble/reaction/commit/3fdb37205d2cae741473de9c0a0653707b9f34f2))
+* update sharp to match files ([f4ad49e](https://github.com/alttreble/reaction/commit/f4ad49e9a07a49e1805013b3ec2f503361a80242))
+
+
+### Features
+
+* **auth:** auth plugin updated to v2 ([49ecfab](https://github.com/alttreble/reaction/commit/49ecfab6bdb8247672e96485d6069b10f8f5d868))
+* updated CircleCI config to also tag image with latest. ([ec745c7](https://github.com/alttreble/reaction/commit/ec745c709d00856b822239dbfdf494c2c7d1b872))
+
 # [4.2.0](https://github.com/reactioncommerce/reaction/compare/v4.1.8...v4.2.0) (2022-03-26)
 
 
